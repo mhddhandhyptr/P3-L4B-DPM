@@ -26,7 +26,7 @@ const App = () => {
         <ProfileCard
           name={profileData.name}
           email={profileData.email}
-          profileImage="https://i.pinimg.com/736x/eb/18/76/eb187655090227af25866572f615b426.jpg" 
+          profileImage="https://i.pinimg.com/736x/68/90/74/6890749e0eb03b75d79e63508db37b79.jpg" 
         />
       )}
 

@@ -5,7 +5,7 @@ import { colors } from '../../styles/colors';
 const FooterComponent = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Praktikum P3 - 223510890</Text>
+      <Text style={styles.text}>mhddhandhyptr - 223510351</Text>
     </View>
   );
 };
